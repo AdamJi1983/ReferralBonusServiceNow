@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="RB_Request" max_length="40" name="x_230562_referralb_rb_request" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Candidate" mandatory="true" max_length="32" name="u_rb_candidate" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate name" mandatory="true" max_length="100" name="u_rb_candidatename" type="string"/>
+        <element label="Hired date" max_length="40" name="u_rb_hireddate" read_only="true" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Referral bonus type:" mandatory="true" max_length="40" name="u_rb_type" type="string">
+            <choice>
+                <element label="Support Center Referral Bonus" sequence="0" value="1"/>
+                <element label="Operation Hourly Referral Bonus" sequence="1" value="2"/>
+                <element label="Operation PICIT Referral Bonus" sequence="2" value="3"/>
+                <element label="Operation APICIT Referral Bonus" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="u_rb_candidate"/>
+        </index>
+    </element>
+</database>
