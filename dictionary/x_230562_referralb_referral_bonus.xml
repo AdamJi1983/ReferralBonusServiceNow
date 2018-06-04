@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Referral Bonus" max_length="40" name="x_230562_referralb_referral_bonus" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="APIC training result" max_length="40" name="u_choice_apict" type="string">
+            <choice>
+                <element label="Pending Completed" sequence="0" value="0"/>
+                <element label="Completed" sequence="1" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="GO100 training result" max_length="40" name="u_choice_go100" type="string">
+            <choice>
+                <element label="Pending Completed" sequence="0" value="0"/>
+                <element label="Completed" sequence="1" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Referral bonus type" mandatory="true" max_length="40" name="u_choice_referrral_type" type="string">
+            <choice>
+                <element label="Support Center Referral Bonus" sequence="0" value="1"/>
+                <element label="Operation Hourly Referral Bonus" sequence="1" value="2"/>
+                <element label="Operation PICIT Referral Bonus" sequence="2" value="3"/>
+                <element label="Operation APICIT Referral Bonus" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element label="Hired date" max_length="40" name="u_glide_date_candidate_hireddate" read_only="true" type="glide_date"/>
+        <element label="Company number" max_length="40" name="u_integer_candidate_companynum" read_only="true" type="integer"/>
+        <element label="Employee ID" max_length="40" name="u_integer_candidate_eid" read_only="true" type="integer"/>
+        <element label="Job Code" max_length="40" name="u_integer_candidate_jobcode" read_only="true" type="integer"/>
+        <element label="Candidate" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+        <element label="Candidate" max_length="32" name="u_reference_candidate" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee status" max_length="40" name="u_string_candidate_empstatus" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate name" max_length="40" name="u_string_candidate_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job title" max_length="40" name="u_string_candidate_title" read_only="true" type="string"/>
+    </element>
+</database>
