@@ -28,7 +28,7 @@
         <element label="Candidate" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
         <element label="Candidate" max_length="32" name="u_reference_candidate" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Employee status" max_length="40" name="u_string_candidate_empstatus" read_only="true" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Candidate name" max_length="5000" name="u_string_candidate_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Candidate name" max_length="40" name="u_string_candidate_name" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Job title" max_length="40" name="u_string_candidate_title" read_only="true" type="string"/>
     </element>
 </database>

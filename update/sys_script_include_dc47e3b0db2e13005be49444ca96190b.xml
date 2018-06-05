@@ -2,7 +2,7 @@
 <record_update table="sys_script_include">
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
-        <active>true</active>
+        <active>false</active>
         <api_name>x_230562_referralb.GetPRGEmpInfoForRB</api_name>
         <client_callable>true</client_callable>
         <description/>
@@ -21,13 +21,13 @@ GetPRGEmpInfoForRB.prototype = Object.extendsObject(global.AbstractAjaxProcessor
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-05 05:50:21</sys_created_on>
         <sys_id>dc47e3b0db2e13005be49444ca96190b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>GetPRGEmpInfoForRB</sys_name>
         <sys_package display_value="ReferralBonus" source="x_230562_referralb">2b646394db1e13005be49444ca96190a</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="ReferralBonus">2b646394db1e13005be49444ca96190a</sys_scope>
         <sys_update_name>sys_script_include_dc47e3b0db2e13005be49444ca96190b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-05 06:06:29</sys_updated_on>
+        <sys_updated_on>2018-06-05 07:25:42</sys_updated_on>
     </sys_script_include>
 </record_update>
