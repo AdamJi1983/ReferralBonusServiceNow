@@ -32,16 +32,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-04 14:27:40</sys_created_on>
+            <sys_created_on>2018-06-06 06:55:20</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>02a41c34db6613005be49444ca961966</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>e34049d5dbe653005be49444ca96198e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_230562_referralb_referral_bonus" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">4aa41c34db6613005be49444ca96195e</sys_ui_form>
-            <sys_ui_section caption="Training Result" display_value="Training Result" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">4ea4d834db6613005be49444ca961926</sys_ui_section>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">6740c5d5dbe653005be49444ca9619f0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-04 14:27:40</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:51</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_230562_referralb_referral_bonus</name>

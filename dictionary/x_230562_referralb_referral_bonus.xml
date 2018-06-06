@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="Referral Bonus" max_length="40" name="x_230562_referralb_referral_bonus" type="collection">
-        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="APIC training result" max_length="40" name="u_choice_apict" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="APIC training result" max_length="40" name="u_choice_apict" read_only="true" type="string">
             <choice>
                 <element label="Pending Completed" sequence="0" value="0"/>
                 <element label="Completed" sequence="1" value="1"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="GO100 training result" max_length="40" name="u_choice_go100" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="GO100 training result" max_length="40" name="u_choice_go100" read_only="true" type="string" use_dependent_field="true">
             <choice>
                 <element label="Pending Completed" sequence="0" value="0"/>
                 <element label="Completed" sequence="1" value="1"/>

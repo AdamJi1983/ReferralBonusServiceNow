@@ -5,13 +5,13 @@
             <element>u_string_candidate_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>f9e04801db6e13005be49444ca9619f4</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>60e0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_integer_candidate_companynum</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>7de04801db6e13005be49444ca9619f4</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>e0e0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_string_candidate_title</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>fde04801db6e13005be49444ca9619f4</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>64e0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>u_glide_date_candidate_hireddate</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>71e04801db6e13005be49444ca9619f5</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>e4e0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>f1e04801db6e13005be49444ca9619f5</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>68e0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>u_integer_candidate_eid</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>75e04801db6e13005be49444ca9619f5</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>e8e0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_string_candidate_empstatus</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>f5e04801db6e13005be49444ca9619f5</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>6ce0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,41 @@
             <element>u_integer_candidate_jobcode</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-05 07:39:51</sys_created_on>
-            <sys_id>79e04801db6e13005be49444ca9619f5</sys_id>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>ece0cdd5dbe653005be49444ca961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 07:39:51</sys_updated_on>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_go100</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>60e0cdd5dbe653005be49444ca961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_apict</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-06 06:57:52</sys_created_on>
+            <sys_id>e0e0cdd5dbe653005be49444ca961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_230562_referralb_referral_bonus" sys_domain="global" view="Default view">46a4d834db6613005be49444ca961926</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-06 06:57:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

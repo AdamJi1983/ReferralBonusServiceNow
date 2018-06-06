@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_choice_apict</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-06 06:53:36</sys_created_on>
+        <sys_id>70df34d5dbe653005be49444ca961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_choice_apict</sys_name>
+        <sys_package display_value="ReferralBonus" source="x_230562_referralb">2b646394db1e13005be49444ca96190a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReferralBonus">2b646394db1e13005be49444ca96190a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_70df34d5dbe653005be49444ca961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-06 06:53:36</sys_updated_on>
+        <table>x_230562_referralb_referral_bonus</table>
+        <ui_policy display_value="APIC Training Result Control">dd9ffc95dbe653005be49444ca9619e8</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
