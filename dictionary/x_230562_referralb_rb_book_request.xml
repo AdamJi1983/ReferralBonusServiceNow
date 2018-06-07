@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="RB Book Request" max_length="40" name="x_230562_referralb_rb_book_request" type="collection"/>
+</database>
